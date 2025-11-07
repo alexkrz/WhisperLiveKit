@@ -94,6 +94,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# IDE
+.vscode/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -116,7 +119,7 @@ dmypy.json
 run_*.sh
 
 # Downloaded models
-*.pt 
+*.pt
 
 # Debug & testing
 test_*.py

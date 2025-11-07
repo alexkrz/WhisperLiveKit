@@ -28,6 +28,7 @@ classifiers = [
 ]
 dependencies = [
     "fastapi",
+    "faster-whisper",
     "librosa",
     "soundfile",
     "uvicorn",
